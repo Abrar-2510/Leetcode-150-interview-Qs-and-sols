@@ -9,3 +9,5 @@ class Solution(object):
                 nums[i] = nums[j]
                 i += 1
         return i
+
+

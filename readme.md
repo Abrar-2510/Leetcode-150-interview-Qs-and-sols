@@ -29,8 +29,22 @@ I will complete solutions for Easy, Medium, and Hard problems gradually.
 | --- | 
 | 125 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/?envType=study-plan-v2&envId=top-interview-150) | Easy       | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/?envType=study-plan-v2&envId=top-interview-150) |  added |
 | --- | 
+| 125 | [167. Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | Medium       | [Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) |  added |
+
+
+| --- | 
 | 125 | [Remove duplicates elements from Sorted Array#2](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=study-plan-v2&envId=top-interview-150) | Easy       | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=study-plan-v2&envId=top-interview-150) |  added |
 
+| --- | 
+| 125 | [Maximum Sum of a Subarray with K Elements](https://www.geeksforgeeks.org/dsa/window-sliding-technique/) | Easy       | [Link](https://www.geeksforgeeks.org/dsa/window-sliding-technique/) |  added |
 
+| --- | 
+| 125 | [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/?envType=study-plan-v2&envId=top-interview-150) | Easy       | [Link](https://leetcode.com/problems/ransom-note/description/?envType=study-plan-v2&envId=top-interview-150) |  added |
+
+| --- | 
+| 125 | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/?envType=study-plan-v2&envId=top-interview-150) | Easy       | [Link](https://leetcode.com/problems/isomorphic-strings/description/?envType=study-plan-v2&envId=top-interview-150) |  added |
+
+| --- | 
+| 125 | [202. Happy Number](https://leetcode.com/problems/happy-number/description/?envType=study-plan-v2&envId=top-interview-150) | Easy       | [Link](https://leetcode.com/problems/happy-number/description/?envType=study-plan-v2&envId=top-interview-150) |  added |
 
 

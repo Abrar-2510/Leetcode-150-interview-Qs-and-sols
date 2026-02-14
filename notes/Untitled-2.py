@@ -6,7 +6,7 @@ class node:
         self.next=None
 
 class Linked_list:
-    def ر(self):
+    def (self):
         self.head=None
     def is_empty(self):
         return self.head==None
