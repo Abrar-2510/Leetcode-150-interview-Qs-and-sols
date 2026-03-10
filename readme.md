@@ -39,4 +39,9 @@ I will complete solutions for Easy, Medium, and Hard problems gradually.
 | 14 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/?envType=study-plan-v2&envId=top-interview-150) | Medium     | [Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/?envType=study-plan-v2&envId=top-interview-150) |  added |
 | 15 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/?envType=study-plan-v2&envId=top-interview-150) | Medium     | [Link](https://leetcode.com/problems/invert-binary-tree/?envType=study-plan-v2&envId=top-interview-150) |  added |
 | 16 | [Maximum Sum of a Subarray with K Elements](https://leetcode.com/problems/group-anagrams/description/?envType=study-plan-v2&envId=top-interview-150) | Medium     | [Link](https://leetcode.com/problems/group-anagrams/description/?envType=study-plan-v2&envId=top-interview-150) |  added |
+| 17 | [134. Gas station](https://leetcode.com/problems/gas-station/?envType=study-plan-v2&envId=top-interview-150) | Medium     | [Link](https://leetcode.com/problems/gas-station/?envType=study-plan-v2&envId=top-interview-150) |  added |
+| 18 | [27. Remove Element](https://leetcode.com/problems/remove-element/description/?envType=study-plan-v2&envId=top-interview-150) | Medium     | [Link](https://leetcode.com/problems/remove-element/description/?envType=study-plan-v2&envId=top-interview-150) |  added |
+
+
+
 
